@@ -1,0 +1,4 @@
+print "Usage for SVM: part1_main svm <kernel_name> <penalty_parameter_value>"
+print "Usage for Gradient boosting: part1_main gb <max_depth> <max_feature> <criterion>"
+print "Usage for Neural Networks: part1_main nn <hidden_layer_nodes> <Activation_function>"
+    
